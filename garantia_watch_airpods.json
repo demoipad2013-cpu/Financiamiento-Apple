@@ -1,0 +1,61 @@
+{
+ "actualizado": "2026-11-11",
+ "fuente": "Excel Garantia_Apple_watch_y_Airpods",
+ "columnas": [
+  "modelo",
+  "1 año",
+  "2 años"
+ ],
+ "filas": [
+  [
+   "Apple Watch SE 40mm",
+   39990,
+   52990
+  ],
+  [
+   "Apple Watch SE 44mm",
+   49990,
+   78990
+  ],
+  [
+   "Apple Watch S11 42mm",
+   59990,
+   86990
+  ],
+  [
+   "Apple Watch S11 46mm",
+   69990,
+   102990
+  ],
+  [
+   "Apple Watch S12 42mm",
+   59990,
+   86990
+  ],
+  [
+   "Apple Watch S12 46mm",
+   69990,
+   102990
+  ],
+  [
+   "Apple Watch Ultra 4",
+   104990,
+   149990
+  ],
+  [
+   "AirPods 5",
+   28990,
+   39990
+  ],
+  [
+   "AirPods 5 carga inalámbrica",
+   34990,
+   54990
+  ],
+  [
+   "AirPods Pro 3",
+   49990,
+   76990
+  ]
+ ]
+}

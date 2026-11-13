@@ -1,0 +1,501 @@
+{
+ "actualizado": "2026-11-12",
+ "fuente": "https://www.falabella.com/falabella-cl/collection/falabella-connect",
+ "columnas": [
+  "modelo",
+  "capacidad",
+  "compañía",
+  "plan",
+  "cargo fijo",
+  "cuota inicial",
+  "meses"
+ ],
+ "filas": [
+  [
+   "iPhone 18 Pro Max",
+   "256GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1389990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1339990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max Libre Pro",
+   29990,
+   1299990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1349990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $29.990",
+   29990,
+   1299990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "512GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1629990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "512GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1589990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "512GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1579990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "1TB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   2179990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "1TB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   2139990,
+   18
+  ],
+  [
+   "iPhone 18 Pro Max",
+   "1TB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   2129990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "WOM",
+   "Plan Retail 400 GB",
+   19990,
+   1279990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1269990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max L Libre",
+   19990,
+   1289990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1199990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max Libre Pro",
+   29990,
+   1179990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $20.990",
+   20990,
+   1299990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1239990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $29.990",
+   29990,
+   1179990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "512GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1489990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "512GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1449990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "512GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1439990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "1TB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   2029990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "1TB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1989990,
+   18
+  ],
+  [
+   "iPhone 18 Pro",
+   "1TB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1979990,
+   18
+  ],
+  [
+   "iPhone 17",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   719990,
+   18
+  ],
+  [
+   "iPhone 17",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   719990,
+   18
+  ],
+  [
+   "iPhone 17",
+   "512GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   949990,
+   18
+  ],
+  [
+   "iPhone 17",
+   "512GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   939990,
+   18
+  ],
+  [
+   "iPhone 17",
+   "512GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   969990,
+   18
+  ],
+  [
+   "iPhone Duo",
+   "256GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   2199990,
+   18
+  ],
+  [
+   "iPhone Duo",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   2189990,
+   18
+  ],
+  [
+   "iPhone Duo",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   2149990,
+   18
+  ],
+  [
+   "iPhone Duo",
+   "512GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   2459990,
+   18
+  ],
+  [
+   "iPhone Duo",
+   "512GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   2449990,
+   18
+  ],
+  [
+   "iPhone Duo",
+   "512GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   2399990,
+   18
+  ],
+  [
+   "iPhone 17 Pro",
+   "256GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1119990,
+   18
+  ],
+  [
+   "iPhone 17 Pro",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1089990,
+   18
+  ],
+  [
+   "iPhone 17 Pro",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1099990,
+   18
+  ],
+  [
+   "iPhone 17 Pro",
+   "512GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1289990,
+   18
+  ],
+  [
+   "iPhone 17 Pro",
+   "512GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1259990,
+   18
+  ],
+  [
+   "iPhone 17 Pro",
+   "512GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1269990,
+   18
+  ],
+  [
+   "iPhone 17 Pro Max",
+   "256GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1239990,
+   18
+  ],
+  [
+   "iPhone 17 Pro Max",
+   "256GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1209990,
+   18
+  ],
+  [
+   "iPhone 17 Pro Max",
+   "256GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1219990,
+   18
+  ],
+  [
+   "iPhone 17 Pro Max",
+   "512GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   1399990,
+   18
+  ],
+  [
+   "iPhone 17 Pro Max",
+   "512GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   1359990,
+   18
+  ],
+  [
+   "iPhone 17 Pro Max",
+   "512GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   1369990,
+   18
+  ],
+  [
+   "iPhone 16",
+   "128GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   599990,
+   18
+  ],
+  [
+   "iPhone 16",
+   "128GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   599990,
+   18
+  ],
+  [
+   "iPhone 16",
+   "128GB",
+   "ENTEL",
+   "Plan Entel $24.990",
+   24990,
+   629990,
+   18
+  ],
+  [
+   "iPhone 15",
+   "128GB",
+   "WOM",
+   "Plan Retail 500 GB",
+   24990,
+   529990,
+   18
+  ],
+  [
+   "iPhone 15",
+   "128GB",
+   "CLARO",
+   "Plan Claro Max XL Libre",
+   24990,
+   479990,
+   18
+  ],
+  [
+   "iPhone 15",
+   "128GB",
+   "ENTEL",
+   "Plan Entel $29.990",
+   29990,
+   499990,
+   18
+  ]
+ ]
+}

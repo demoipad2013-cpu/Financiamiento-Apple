@@ -1,0 +1,102 @@
+{
+ "actualizado": "2026-11-11",
+ "fuente": "falabella.com product API",
+ "columnas": [
+  "id",
+  "producto",
+  "normal",
+  "oferta",
+  "CMR",
+  "link"
+ ],
+ "filas": [
+  [
+   "cargador20",
+   "Adaptador Cargador iPhone USB-C 20W Apple",
+   22990,
+   20990,
+   19990,
+   "https://www.falabella.com/falabella-cl/product/14783871/Adaptador-Cargador-iPhone-USB-C-20W-Apple/14783871"
+  ],
+  [
+   "earpodsl",
+   "Audífonos EarPods Conector Lightning Apple",
+   24990,
+   20990,
+   19990,
+   "https://www.falabella.com/falabella-cl/product/5341682/Audifonos-EarPods-Conector-Lightning-Apple/5341682"
+  ],
+  [
+   "earpodsc",
+   "Audífonos EarPods Conector Tipo C Apple",
+   24990,
+   20990,
+   19990,
+   "https://www.falabella.com/falabella-cl/product/16996583/Audífonos-EarPods-Conector-Tipo-C-Apple/16996583"
+  ],
+  [
+   "magicmouse",
+   "Apple Magic Mouse Negro",
+   119990,
+   115990,
+   111990,
+   "https://www.falabella.com/falabella-cl/product/16033644/magic-mouse-inalambrico-para-macbook-apple/16104846"
+  ],
+  [
+   "multipuerto",
+   "Adaptador Multipuerto De Usb-C A Av Digital Apple",
+   89990,
+   79990,
+   78990,
+   "https://www.falabella.com/falabella-cl/product/4510694/Adaptador-Multipuerto-De-Usb-C-A-Av-Digital-Apple/4510694"
+  ],
+  [
+   "pencilc",
+   "Pencil Usb-C Apple",
+   119990,
+   99990,
+   0,
+   "https://www.falabella.com/falabella-cl/product/16973075/Pencil-Usb-C-Apple/16973075"
+  ],
+  [
+   "pencil2",
+   "Pencil 2ª Generación Apple",
+   179990,
+   159990,
+   154990,
+   "https://www.falabella.com/falabella-cl/product/6885805/Pencil-2ª-Generacion-Apple/6885805"
+  ],
+  [
+   "pencilpro",
+   "Apple Pencil Pro",
+   169990,
+   159990,
+   154990,
+   "https://www.falabella.com/falabella-cl/product/17155507/Mouse-Pencil-Pro-Ame-Apple/17155507"
+  ],
+  [
+   "airpods5",
+   "Apple AirPods 5",
+   159990,
+   159990,
+   0,
+   "https://www.falabella.com/falabella-cl/product/17776917/apple-airpods-5/17776917"
+  ],
+  [
+   "airpods5w",
+   "AirPods 5 con Estuche de Carga Inalámbrica",
+   179990,
+   179990,
+   0,
+   "https://www.falabella.com/falabella-cl/product/17776916/AirPods-5-con-Estuche-de-Carga-Inalambrica/17776916"
+  ],
+  [
+   "airpodspro3",
+   "Apple AirPods Pro 3",
+   329990,
+   289990,
+   0,
+   "https://www.falabella.com/falabella-cl/product/17564271/Apple-Airpods-Pro-3-Ame/17564271"
+  ]
+ ]
+}

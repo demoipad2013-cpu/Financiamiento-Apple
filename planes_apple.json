@@ -1,0 +1,294 @@
+{
+ "actualizado": "2026-11-11",
+ "fuente": "https://www.falabella.com/falabella-cl/collection/falabella-connect",
+ "columnas": [
+  "marca",
+  "producto",
+  "cuota inicial",
+  "operador"
+ ],
+ "filas": [
+  [
+   "Apple",
+   "IPhone 18 Pro Max 256GB",
+   1389990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 256GB",
+   1299990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 256GB",
+   1299990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 512GB",
+   1629990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 512GB",
+   1589990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 512GB",
+   1579990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 1TB",
+   2179990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 1TB",
+   2139990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro Max 1TB",
+   2129990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 256GB",
+   1269990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 256GB",
+   1179990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 256GB",
+   1179990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 512GB",
+   1489990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 512GB",
+   1449990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 512GB",
+   1439990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 1TB",
+   2029990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 1TB",
+   1989990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 18 Pro 1TB",
+   1979990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 17 256GB",
+   719990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 17 256GB",
+   719990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 17 512GB",
+   949990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 17 512GB",
+   939990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 17 512GB",
+   969990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone Duo 256GB",
+   2199990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone Duo 256GB",
+   2189990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone Duo 256GB",
+   2149990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone Duo 512GB",
+   2459990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone Duo 512GB",
+   2449990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone Duo 512GB",
+   2399990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro 256GB",
+   1119990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro 256GB",
+   1089990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro 256GB",
+   1099990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro 512GB",
+   1289990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro 512GB",
+   1259990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro 512GB",
+   1269990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro Max 256GB",
+   1239990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro Max 256GB",
+   1209990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro Max 256GB",
+   1219990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro Max 512GB",
+   1399990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro Max 512GB",
+   1359990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 17 Pro Max 512GB",
+   1369990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "IPhone 16 128GB",
+   599990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "IPhone 16 128GB",
+   599990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "IPhone 16 128GB",
+   629990,
+   "ENTEL"
+  ],
+  [
+   "Apple",
+   "Iphone 15 128GB",
+   529990,
+   "WOM"
+  ],
+  [
+   "Apple",
+   "Iphone 15 128GB",
+   479990,
+   "CLARO"
+  ],
+  [
+   "Apple",
+   "Iphone 15 128GB",
+   499990,
+   "ENTEL"
+  ]
+ ]
+}
